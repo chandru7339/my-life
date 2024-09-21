@@ -411,12 +411,12 @@ section{
 
 }
 .one{
-    color: rgb(129, 3, 112);
+    color: hsl(268, 98%, 51%);
     font-weight: 900;
     display: inline;
 }
 .two{
-    color: rgb(1, 1, 112);
+    color: rgb(11, 183, 252);
     font-weight: 900;
     display: inline;
     padding-left: 20px;
@@ -424,17 +424,17 @@ section{
 
 
 #heading{
-    color: hsl(9, 97%, 50%);
+    color: hsl(78, 96%, 29%);
     font-weight: 1000;
     display: block;
 }
 #menu{
-    color: hsl(128, 100%, 24%);
+    color: hsl(69, 98%, 50%);
     font-weight: 700;
     display: block;
 }
 #support{
-    color: hsl(71, 78%, 33%);
+    color: hsl(320, 95%, 50%);
     font-weight: 1000;
     display: block;
 }
