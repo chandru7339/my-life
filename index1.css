@@ -414,41 +414,27 @@ section{
     color: rgb(129, 3, 112);
     font-weight: 900;
     display: inline;
-    padding-left: 300px;
 }
 .two{
     color: rgb(1, 1, 112);
     font-weight: 900;
     display: inline;
-    padding-left: 30px;
+    padding-left: 20px;
 }
-.three{
-    color: rgb(1, 1, 112);
-    font-weight: 900;
-    display: inline;
-    padding-left: 30px;
-}
-.four{
-    color: rgb(1, 1, 112);
-    font-weight: 900;
-    display: inline;
-    padding-left: 30px;
-}
+
+
 #heading{
     color: hsl(9, 97%, 50%);
     font-weight: 1000;
     display: block;
-    padding-left: 40%;
 }
 #menu{
     color: hsl(128, 100%, 24%);
     font-weight: 700;
     display: block;
-    padding-left: 380px;
 }
 #support{
     color: hsl(71, 78%, 33%);
     font-weight: 1000;
     display: block;
-    padding-left: 500px;
 }
