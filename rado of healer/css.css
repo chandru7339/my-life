@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
     background-color: black;
     color: red;
@@ -8,3 +9,15 @@ body{
 .video{
     color: yellow;
 }
+=======
+body{
+    background-color: black;
+    color: red;
+}
+.two{
+    color: rgb(248, 6, 87);
+}
+.video{
+    color: yellow;
+}
+>>>>>>> 9f4f00f5b75c73b21418b2aec7176961f644452c
